@@ -14,7 +14,7 @@ I'm an aspiring Data Analyst with a strong foundation in Power BI, Python, and S
 ### 🔹 Telecom Churn Analysis
 **Tool:** Power BI  
 **Goal:** Investigate why customers leave a telecom company.  
-[🔗 View project]([https://github.com/yourusername/powerbi-telecom-churn-analysis](https://github.com/omarmahdii/powerbi-telecom-churn-analysis.git))
+[🔗 View project](https://github.com/omarmahdii/powerbi-telecom-churn-analysis.git)
 
 ---
 
@@ -26,5 +26,5 @@ I'm an aspiring Data Analyst with a strong foundation in Power BI, Python, and S
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: omarmahdii02@gmail.com
+- 💼 LinkedIn: [YourLinkedIn](www.linkedin.com/in/omar-mahdy-4a77b3373)
