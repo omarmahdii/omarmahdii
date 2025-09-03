@@ -18,10 +18,11 @@ I'm an aspiring Data Analyst with a strong foundation in Power BI, Python, and S
 
 ---
 
-### 🔹 Sales Performance Dashboard
-**Tool:** Power BI  
-**Goal:** Track product sales and regional performance  
-[🔗 View project](https://github.com/yourusername/sales-dashboard)
+### 🔹 No-Show Appointments Analysis
+
+**Tool:** Python 
+**Goal:** analyzing medical appointment attendance and factors behind patient no-shows. 
+[🔗 View project](https://github.com/omarmahdii/No-Show-Appointments-Analysis.git)
 
 ---
 
