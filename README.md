@@ -20,7 +20,7 @@ I'm an aspiring Data Analyst with a strong foundation in Power BI, Python, and S
 
 ### 🔹 No-Show Appointments Analysis
 
-**Tool:** Python 
+**Tool:** Python
 **Goal:** analyzing medical appointment attendance and factors behind patient no-shows. 
 [🔗 View project](https://github.com/omarmahdii/No-Show-Appointments-Analysis.git)
 
