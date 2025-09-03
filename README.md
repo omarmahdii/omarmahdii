@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Omar]
+# 👋 Hi, I'm Omar
 I'm an aspiring Data Analyst with a strong foundation in Power BI, Python, and SQL.
 
 ## 🧰 Tools & Skills
