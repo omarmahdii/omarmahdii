@@ -27,4 +27,4 @@ I'm an aspiring Data Analyst with a strong foundation in Power BI, Python, and S
 
 ## 📫 Let's Connect
 - 📧 Email: omarmahdii02@gmail.com
-- 💼 LinkedIn: [YourLinkedIn](www.linkedin.com/in/omar-mahdy-4a77b3373)
+- 💼 LinkedIn: [YourLinkedIn](https://www.linkedin.com/in/omar-mahdy-4a77b3373/)
